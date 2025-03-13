@@ -1,0 +1,2 @@
+execute as @a at @s if score @s deathCheck matches 1 run function hunger-games:player-death-event {player:"@s"}
+execute if score count alivePlayers matches 1 if score gameRunning alivePlayers matches 1 run function hunger-games:player-win {player: "@a[team=players]"}

@@ -1,0 +1,1 @@
+$execute as $(player) run me is malding

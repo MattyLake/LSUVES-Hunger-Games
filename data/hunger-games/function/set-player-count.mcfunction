@@ -1,0 +1,1 @@
+$scoreboard players set count alivePlayers $(count)
