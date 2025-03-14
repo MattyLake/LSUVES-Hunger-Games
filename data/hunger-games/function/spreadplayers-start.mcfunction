@@ -8,7 +8,6 @@ scoreboard players set gameRunning alivePlayers 1
 worldborder damage amount 5
 worldborder center -276 -401
 worldborder set 300 0
-gamerule pvp false
 
 give @a[team=players] minecraft:bread 8
 

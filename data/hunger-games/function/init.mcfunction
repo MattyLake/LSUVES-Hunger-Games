@@ -10,6 +10,7 @@ team modify spectators color gray
 team modify admin color gray
 
 team modify admin prefix ["",{"text":"[","color":"gray"},{"text":"\u273f","color":"dark_aqua"},{"text":"] ","color":"gray"}]
+team modify players friendlyFire false
 
 scoreboard objectives add deathCheck deathCount
 
